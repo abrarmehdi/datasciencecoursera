@@ -1,5 +1,5 @@
 
-<ol> Original Column Names ------>  Descriptive Column Names </ol>
+#### <ol> Original Column Names ------>  Descriptive Column Names </ol>
 
 <ol>tBodyAcc-mean()-X -----------> Total Body Acceleration Mean X Direction</ol>
 <ol>tBodyAcc-mean()-Y -----------> Total Body Acceleration Mean Y Direction</ol>
